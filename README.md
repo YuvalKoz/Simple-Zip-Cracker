@@ -6,6 +6,6 @@ Downlaod the provided `zip_cracker.py` file and run it. Alternitavly, you can us
 Make sure the compressd archive is saved on your system, and once prompted, input the location of the archive. The program will run and will either result with no match found, or it will give the password and extract the contents of the archive to the saem directory in a new file.
 
 # Note:
-  The program currently supports ZIP and RAR compressed archives.
-  The program currently works on MacOS and Windows. 
-  There is a PDF file provided in the repository for you personal knwoledge, explaining my thought process on this project.
+  The program currently supports ZIP and RAR compressed archives.  
+  The program currently works on MacOS and Windows.  
+  There is a PDF file provided in the repository for you personal knwoledge, explaining my thought process on this project.  
