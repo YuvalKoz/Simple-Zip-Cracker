@@ -5,6 +5,6 @@ Simple Python script that tries brute forcing the password and export the conten
 Downlaod the provided `zip_cracker.py` file and run it. Alternitavly, you can use `git clone https://github.com/YuvalKoz/Simple-Zip-Cracker.git` in the terminal.
 Make sure the compressd archive is saved on your system, and once prompted, input the location of the archive. The program will run and will either result with no match found, or it will give the password and extract the contents of the archive to the saem directory in a new file.
 
-#Note:
+# Note:
 The program currently supports ZIP and RAR compressed archives.
 There is a PDF file provided in the repository for you personal knwoledge, explaining my thought process on this project.
